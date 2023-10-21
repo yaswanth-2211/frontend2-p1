@@ -113,3 +113,7 @@ header {
     bottom: 50px;
     right: 50px;
   }
+  #canvas{
+    /* background-color: aqua; */
+    cursor: crosshair;
+}
